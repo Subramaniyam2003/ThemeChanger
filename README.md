@@ -1,0 +1,1 @@
+In this project we cover the useState and useContext React Hooks (Special Javascript function) to make the Theme Changer like light and dark theme.
